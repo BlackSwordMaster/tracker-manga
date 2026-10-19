@@ -1,23 +1,11 @@
 {
   "poll_interval_minutes": 60,
   "request_delay_seconds": 2,
-  "manga": [
-    {
-      "title": "Manga title to watch",
-      "site": "mgeko",
-      "parser": "mgeko_updates",
-      "url": "https://www.mgeko.cc/jumbo/manga/",
-      "match_title": "Manga title to watch",
-      "enabled": false
-    },
-    {
-      "title": "Example Manga on another site",
-      "site": "another-site",
-      "parser": "css",
-      "url": "https://example.com/manga/example/chapters",
-      "chapter_selector": ".chapter-list a",
-      "chapter_title_attribute": null,
-      "enabled": false
-    }
-  ]
+  "manga": [],
+  "feeds": [{
+    "id": "mgeko",
+    "name": "Mgeko",
+    "parser": "mgeko_updates_feed",
+    "url": "https://www.mgeko.cc/jumbo/manga/"
+  }]
 }

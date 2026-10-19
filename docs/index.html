@@ -10,6 +10,7 @@
 <body>
   <main>
     <header><p class="eyebrow">Personal library</p><h1>Manga tracker</h1><p id="summary">Loading your chapter list…</p></header>
+    <form id="add-form"><label for="title">Add a manga</label><div><input id="title" list="titles" placeholder="Start typing a title" required autocomplete="off"><datalist id="titles"></datalist><button>Add to my tracker</button></div><p id="add-help">Choose a title from the latest Mgeko updates.</p></form>
     <nav aria-label="Chapter filter"><button class="active" data-filter="unread">Unread</button><button data-filter="all">All chapters</button></nav>
     <section id="manga-list" aria-live="polite"></section>
   </main>

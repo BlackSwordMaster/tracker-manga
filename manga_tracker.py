@@ -118,6 +118,19 @@ def chapters_from_mgeko_updates(item: dict[str, Any], soup: BeautifulSoup) -> li
     return list(dict.fromkeys(chapters))
 
 
+def feed_from_mgeko_updates(item: dict[str, Any], soup: BeautifulSoup) -> list[dict[str, str]]:
+    """Return the latest Mgeko entries for the public dashboard."""
+    entries: list[dict[str, str]] = []
+    for card in soup.select("li.novel-item"):
+        series, chapter, link = (card.select_one("h4.novel-title"), card.select_one("h5.chapter-title"), card.select_one("a.list-body[href]"))
+        if not series or not chapter or not link:
+            continue
+        title, name, url = series.get_text(" ", strip=True), chapter.get_text(" ", strip=True), urljoin(item["url"], link["href"])
+        key = hashlib.sha256(f"{item['id']}\0{title}\0{name}\0{url}".encode()).hexdigest()
+        entries.append({"id": key, "title": title, "chapter": name, "url": url})
+    return list({entry["id"]: entry for entry in entries}.values())
+
+
 PARSERS = {
     "css": chapters_from_css,
     "mgeko_series": chapters_from_mgeko_series,
@@ -216,8 +229,20 @@ def export_dashboard(config: dict[str, Any], output_path: Path) -> int:
             })
         except (requests.RequestException, ValueError, KeyError) as error:
             LOG.error("%s: could not export (%s)", item.get("title", "Unknown title"), error)
+    feeds: list[dict[str, Any]] = []
+    for feed in config.get("feeds", []):
+        if feed.get("parser") != "mgeko_updates_feed":
+            LOG.error("%s: unknown feed parser", feed.get("id", "Unknown feed"))
+            continue
+        try:
+            response = session.get(feed["url"], timeout=(10, 30))
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            feeds.append({"id": feed["id"], "name": feed.get("name", feed["id"]), "entries": feed_from_mgeko_updates(feed, soup)})
+        except (requests.RequestException, ValueError, KeyError) as error:
+            LOG.error("%s: could not export feed (%s)", feed.get("id", "Unknown feed"), error)
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    output_path.write_text(json.dumps({"manga": entries}, indent=2) + "\n", encoding="utf-8")
+    output_path.write_text(json.dumps({"manga": entries, "feeds": feeds}, indent=2) + "\n", encoding="utf-8")
     LOG.info("Dashboard data written to %s", output_path)
     return 0
 
