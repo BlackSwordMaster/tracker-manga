@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A personal manga chapter tracker.">
+  <title>Manga tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main>
+    <header><p class="eyebrow">Personal library</p><h1>Manga tracker</h1><p id="summary">Loading your chapter list…</p></header>
+    <nav aria-label="Chapter filter"><button class="active" data-filter="unread">Unread</button><button data-filter="all">All chapters</button></nav>
+    <section id="manga-list" aria-live="polite"></section>
+  </main>
+  <template id="manga-template"><article><div class="series-head"><div><p class="source"></p><h2></h2></div><button class="read-all">Mark all read</button></div><ul></ul></article></template>
+  <script src="app.js"></script>
+</body>
+</html>
