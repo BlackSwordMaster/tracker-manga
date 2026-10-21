@@ -126,8 +126,10 @@ def feed_from_mgeko_updates(item: dict[str, Any], soup: BeautifulSoup) -> list[d
         if not series or not chapter or not link:
             continue
         title, name, url = series.get_text(" ", strip=True), chapter.get_text(" ", strip=True), urljoin(item["url"], link["href"])
+        image = card.select_one("img")
+        cover = urljoin(item["url"], image.get("data-src") or image.get("src", "")) if image else ""
         key = hashlib.sha256(f"{item['id']}\0{title}\0{name}\0{url}".encode()).hexdigest()
-        entries.append({"id": key, "title": title, "chapter": name, "url": url})
+        entries.append({"id": key, "title": title, "chapter": name, "url": url, "cover": cover})
     return list({entry["id"]: entry for entry in entries}.values())
 
 
