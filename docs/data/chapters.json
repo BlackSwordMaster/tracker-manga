@@ -1,3 +1,311 @@
 {
-  "manga": []
+  "manga": [],
+  "feeds": [
+    {
+      "id": "mgeko",
+      "name": "Mgeko",
+      "entries": [
+        {
+          "id": "542bd59022efb16e68f545592a2609b3caf9707a01355e6baf2f8d48f2dd897e",
+          "title": "The Chairman of Pharmaceutical Company is a Poison King",
+          "chapter": "Chapter 38-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-chairman-of-pharmaceutical/"
+        },
+        {
+          "id": "b02d88e261f4ad6f65cd865b4e398b3b0ab1ead287c34fbcb8040269ee66d8ea",
+          "title": "A Modern Man Who Got Transmigrated Into the Murim World",
+          "chapter": "Chapter 197-eng-li",
+          "url": "https://www.mgeko.cc/manga/modern-man-who-fell-in-murim/"
+        },
+        {
+          "id": "84a3486a561201a562eb8438b1e75381391aca123601064a6996ca048e25ec09",
+          "title": "The Academy's Weapon Replicator",
+          "chapter": "Chapter 24-eng-li",
+          "url": "https://www.mgeko.cc/manga/n67k-the-academy-s-weapon-replicator/"
+        },
+        {
+          "id": "ced68cb1cc6d724c6725cd575e61fd12d5a1310fd3661ec83ad0233887d47232",
+          "title": "Reborn as the Strategist of My Enemy's Brother",
+          "chapter": "Chapter 32-eng-li",
+          "url": "https://www.mgeko.cc/manga/reborn-as-the-strategist-of-my-enemys-brother/"
+        },
+        {
+          "id": "31ff9f41671c384998809911568fab2437640874712e4526c75186828a54c97c",
+          "title": "Even the Lottery Jackpot Winner Still Goes to Work",
+          "chapter": "Chapter 100-eng-li",
+          "url": "https://www.mgeko.cc/manga/even-the-lottery-jackpot-winner-still-goes-to-work/"
+        },
+        {
+          "id": "eb554ae5c10d496bbfc4f10bf99fa1180e70bee625472fc74cef30b8eab20c0c",
+          "title": "WARRIOR GRANDPA AND SUPREME GRANDDAUGHTER",
+          "chapter": "Chapter 124-eng-li",
+          "url": "https://www.mgeko.cc/manga/warrior-grandpa-and-supreme-granddaughter/"
+        },
+        {
+          "id": "c386fdc487aa526edfd48c87ca80d71d25bb245cfaf6d3de2eb4efdd9f22760b",
+          "title": "The Chaebeol\u2019s Youngest Son",
+          "chapter": "Chapter 232-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-chaebeols-youngest-son/"
+        },
+        {
+          "id": "275d0bfe8d59e455a104e622843dead139e21a8b49944606b69d0e47630379a2",
+          "title": "The Divine Brush of Hwarim",
+          "chapter": "Chapter 16-eng-li",
+          "url": "https://www.mgeko.cc/manga/gdo6-the-divine-brush-of-hwarim/"
+        },
+        {
+          "id": "3cbc0c285b23ecc0ae84e04d2d33fb372c3edc5a074771a53d0741820f86a1b1",
+          "title": "Magical Realm Shopkeeper",
+          "chapter": "Chapter 124-eng-li",
+          "url": "https://www.mgeko.cc/manga/magical-realm-shopkeeper/"
+        },
+        {
+          "id": "ccedb4df5fe1c918d532fb22ae30f5a76126f77e754331f5a2dab8a75d51646e",
+          "title": "The Overly Competent Junior Employee",
+          "chapter": "Chapter 32-eng-li",
+          "url": "https://www.mgeko.cc/manga/ui8w-the-overly-competent-junior-employee/"
+        },
+        {
+          "id": "cef0d54a79b597e954b482cebaf8895edcab2bc225bbc4af70275fafde25c063",
+          "title": "Necromancer Academy and the Genius Summoner",
+          "chapter": "Chapter 221-eng-li",
+          "url": "https://www.mgeko.cc/manga/necromancer-academy-and-the-genius-summoner/"
+        },
+        {
+          "id": "adf3a26c604ffed4b12cdded09427b93f768f42d206c90ade3d1234bedc22bbe",
+          "title": "Third-rate Martial Family Becomes the Best Under Heaven",
+          "chapter": "Chapter 31-eng-li",
+          "url": "https://www.mgeko.cc/manga/fqw8-third-rate-martial-family-becomes-the-best-under-heaven/"
+        },
+        {
+          "id": "beac15755b13c5259a638bac6776eb1f5551465a70590c1ac09436f1ec2b582b",
+          "title": "Kidnapped Dragons",
+          "chapter": "Chapter 65-eng-li",
+          "url": "https://www.mgeko.cc/manga/n696-kidnapped-dragons/"
+        },
+        {
+          "id": "d718cfcf0a7dbafe7c8d01321d40f5be07e0f31eea383e4932d2514d35203fb6",
+          "title": "Spare Me, Great Lord!",
+          "chapter": "Chapter 836-eng-li",
+          "url": "https://www.mgeko.cc/manga/spare-me-great-lord-mg1/"
+        },
+        {
+          "id": "8e8c5e121a7accebd5960641948862844afeedfdbe332b3c36c12d6db61178bf",
+          "title": "Gatekeeper Of The Boundless World",
+          "chapter": "Chapter 205-eng-li",
+          "url": "https://www.mgeko.cc/manga/gatekeeper-of-the-boundless-world/"
+        },
+        {
+          "id": "31d2d340c8db5e0d86f7ec04b6780548125fd7d163472278c60d984f2902c43a",
+          "title": "The Genius Wants to be Ordinary!",
+          "chapter": "Chapter 77-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-genius-wants-to-be-ordinary/"
+        },
+        {
+          "id": "078e015ab59a4758ba333f63c0550676d354b9ce80f98164cf9ac699751057a9",
+          "title": "The Absolute's Modern Life",
+          "chapter": "Chapter 43-eng-li",
+          "url": "https://www.mgeko.cc/manga/9ntl-the-modern-life-of-the-absolute/"
+        },
+        {
+          "id": "de8a1ebe95313881e17436bc093b33517e2999904192050b9b746aedb79979b4",
+          "title": "Pick Me Up",
+          "chapter": "Chapter 224-eng-li",
+          "url": "https://www.mgeko.cc/manga/pick-me-up/"
+        },
+        {
+          "id": "f1d6bee60336bc93a1acd715c0064533a035405339fd8b128dea7e3ccec269a4",
+          "title": "I Will Raise This Family to Greatness",
+          "chapter": "Chapter 88-eng-li",
+          "url": "https://www.mgeko.cc/manga/i-will-raise-this-family-to-greatness/"
+        },
+        {
+          "id": "a0f5621df5cd3703e8be8c3a2dce4186aea502eb2cc4d27d04051f168c000f68",
+          "title": "Fog Land",
+          "chapter": "Chapter 61-eng-li",
+          "url": "https://www.mgeko.cc/manga/fog-land/"
+        },
+        {
+          "id": "56430a9e0ff1e5a79b216325508dd337ca680809157b22dd99f2d7b16052ef19",
+          "title": "Counterattack of the Ugly Orcs",
+          "chapter": "Chapter 26-1-eng-li",
+          "url": "https://www.mgeko.cc/manga/counterattack-of-the-ugly-orcs/"
+        },
+        {
+          "id": "a237c313465f36f7826ace22fb48ccc8ba387953a7ae3af22f13fbd0b64513f4",
+          "title": "Return of the Disaster-Class Hero",
+          "chapter": "Chapter 193-eng-li",
+          "url": "https://www.mgeko.cc/manga/return-of-the-disaster-class-hero-mg1/"
+        },
+        {
+          "id": "2a0d206280646a440c87602639ce0447c1743813e902f4c4c1b10baae306bcd7",
+          "title": "Reverend Insanity (2025)",
+          "chapter": "Chapter 32-eng-li",
+          "url": "https://www.mgeko.cc/manga/reverend-insanity-2025/"
+        },
+        {
+          "id": "248f866b44ca7003c6954fff09c4b93b669c5aea5162aad6a86119861da90172",
+          "title": "Clearing Dungeons Faster Than Anyone With the Bug Skill [Unlock]",
+          "chapter": "Chapter 3-eng-li",
+          "url": "https://www.mgeko.cc/manga/8mw0-clearing-dungeons-faster-than-anyone-with-the-bug-skill-unlock/"
+        },
+        {
+          "id": "67fce0bcb9625820e94282170a7c4e48292f2947fad31eb6310fbdc6ba8bffa3",
+          "title": "Heavenly Demon Cultivation Simulation",
+          "chapter": "Chapter 203-eng-li",
+          "url": "https://www.mgeko.cc/manga/heavenly-demon-cultivation-simulation-mg1/"
+        },
+        {
+          "id": "3709f4b34b80fe79e42260daa10f872107e7ebb2967a26c37cb2c319b246a20c",
+          "title": "Another Typical Fantasy Romance",
+          "chapter": "Chapter 178-eng-li",
+          "url": "https://www.mgeko.cc/manga/another-typical-fantasy-romance/"
+        },
+        {
+          "id": "54697b2030870007ec3e82ac170fffece8d7debe3182ff96bee6cc02b618d36c",
+          "title": "Genius Prismatic Mage",
+          "chapter": "Chapter 99-eng-li",
+          "url": "https://www.mgeko.cc/manga/genius-prismatic-mage/"
+        },
+        {
+          "id": "170b6c41095f24b7575b5cbb1242b55a9da3de25efff397205a39249f207519b",
+          "title": "Reborn Ranker \u2013 Gravity User (Manga)",
+          "chapter": "Chapter 223-eng-li",
+          "url": "https://www.mgeko.cc/manga/reborn-ranker-gravity-user/"
+        },
+        {
+          "id": "a5e608b2c7290615b3274a3dbe79b5c9d79cdb5074dbc29fd9eba554065ebf6e",
+          "title": "After All Eight Empresses Betrayed Me, I Was Reborn in Regret",
+          "chapter": "Chapter 45-eng-li",
+          "url": "https://www.mgeko.cc/manga/after-all-eight-empresses/"
+        },
+        {
+          "id": "637b08e93c8cc2c7827320aa51de63ef0576176d56f73c14c4226f94f8428a88",
+          "title": "A Rogue Guard in a Medieval Fantasy",
+          "chapter": "Chapter 53-eng-li",
+          "url": "https://www.mgeko.cc/manga/a-rogue-guard-in-a-medieval-fantasy/"
+        },
+        {
+          "id": "f8684180bf78be190b0c48ebbb6c7e592f058ae63089c3f2744f4ccd49be80c7",
+          "title": "The Constellations Are My Disciples",
+          "chapter": "Chapter 161-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-constellations-are-my-disciples/"
+        },
+        {
+          "id": "4c805d2cbfe257bed13b1f1be4bb59869f692a7f51f9124ebf509e3f1d967936",
+          "title": "invincible (Recommended)",
+          "chapter": "Chapter 34-eng-li",
+          "url": "https://www.mgeko.cc/manga/invincible/"
+        },
+        {
+          "id": "c9d404c2568fde4ffcb8e1cc438dbb60ebed985b288e4fd4f1abd20c519545b3",
+          "title": "After Being Reincarnated and Getting a Fast-growth Cheat Skill, I Also Ended Up With the Most Terrifying Skill?!",
+          "chapter": "Chapter 32-eng-li",
+          "url": "https://www.mgeko.cc/manga/64133b1f075-after-being-reincarnated/"
+        },
+        {
+          "id": "aa784819cf3e3a4317d20ed0b2ef1c6308f2240c5fd9ebbf299e81ca6aba05f9",
+          "title": "Master: This rebellious disciple is definitely not the Holy Son",
+          "chapter": "Chapter 209-eng-li",
+          "url": "https://www.mgeko.cc/manga/master-this-rebellious-disciple/"
+        },
+        {
+          "id": "0478bc442b80442dce039bd6c92a2002a704649cbca42661d53e868c6e3c7a4e",
+          "title": "Return of the First Patriarch: The Strongest Reincarnates into His Descendant 1000 Years Later",
+          "chapter": "Chapter 62-eng-li",
+          "url": "https://www.mgeko.cc/manga/return-of-the-first-patriarch/"
+        },
+        {
+          "id": "57d7ba557044d50c6591a0a9248335e5d4dd1105705217eed1520f1c520c1be1",
+          "title": "Versatile Sword Cultivator",
+          "chapter": "Chapter 124-eng-li",
+          "url": "https://www.mgeko.cc/manga/versatile-sword-cultivator/"
+        },
+        {
+          "id": "d8af3dbe4dca02416d45ed8560fb2eb84580253b89a59da4c951de79629ccb38",
+          "title": "Idle Player Returns as a God",
+          "chapter": "Chapter 93-eng-li",
+          "url": "https://www.mgeko.cc/manga/idle-player-returns-as-a-god/"
+        },
+        {
+          "id": "5a53750793be13115c446cb2cf3c904cc36c67f0bdb0c6b50fa4844a5c241807",
+          "title": "Against The Gods (Reuploaded)",
+          "chapter": "Chapter 792-eng-li",
+          "url": "https://www.mgeko.cc/manga/against-the-gods/"
+        },
+        {
+          "id": "16a5ca41e082f605a0b24e5a7cb1d41b1bfeecb2e14670f3ac391827b5c57d58",
+          "title": "Maxed Strength Necromancer",
+          "chapter": "Chapter 149-eng-li",
+          "url": "https://www.mgeko.cc/manga/maxed-strength-necromancer/"
+        },
+        {
+          "id": "8860aed83f07fd4f73ac0a5616698b0bf7df0a9ba0d4efca3ea5ea5ebdf89524",
+          "title": "Mood Disorder",
+          "chapter": "Chapter 97-eng-li",
+          "url": "https://www.mgeko.cc/manga/mood-disorder/"
+        },
+        {
+          "id": "356992d13bebfd7f6856b84b2bd970b29c6de3d7f88b495bedb0bac6c4e0579d",
+          "title": "Tales of Demons and Gods",
+          "chapter": "Chapter 535-1-eng-li",
+          "url": "https://www.mgeko.cc/manga/tales-of-demons-and-gods-manhua/"
+        },
+        {
+          "id": "438668c6bb80eec961d547c7cfb8176e74f119ceca6de7f579353d1392d17a8e",
+          "title": "The Fight Is Too Easy",
+          "chapter": "Chapter 10-eng-li",
+          "url": "https://www.mgeko.cc/manga/rvdh-the-fight-is-too-easy/"
+        },
+        {
+          "id": "3aef2d67efb5f810d48996ae82b4aa5af4b70a3e8d9f50e6e8910cad1bd5ab90",
+          "title": "A RANK PARTY WO RIDATSU SHITA ORE WA, MOTO OSHIEGO TACHI TO MEIKYUU SHINBU WO MEZASU",
+          "chapter": "Chapter 178-eng-li",
+          "url": "https://www.mgeko.cc/manga/a-rank-party-wo-ridatsu-shita-ore-wa-moto-oshiego-tachi-to-meikyuu-shinbu-wo-mezasu/"
+        },
+        {
+          "id": "13256fcee57b421c3408385357778b05d8dae094c8d52076c36dfad7ea88cfe8",
+          "title": "The Genius Who Reads the World",
+          "chapter": "Chapter 68-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-genius-who-reads-the-world/"
+        },
+        {
+          "id": "e4c5c19740cbce5ae291a319f7d9c8d51f7103b67be8bd437e88abbe9ea2f7c7",
+          "title": "God-level Assassin, I\u2019m the Shadow",
+          "chapter": "Chapter 149-eng-li",
+          "url": "https://www.mgeko.cc/manga/god-level-assassin-im-the-shadow/"
+        },
+        {
+          "id": "be389b1d6a6347df79e7d1efd04320b18c7873378a90c048cc1fb7033e9116f3",
+          "title": "Chronicles of the Taoist Masters",
+          "chapter": "Chapter 17-eng-li",
+          "url": "https://www.mgeko.cc/manga/njub-chronicles-of-the-taoist-masters/"
+        },
+        {
+          "id": "7bdade89993056324cd774205b01be4e52fb2cd044e6de4b571f54a9f4905819",
+          "title": "As a Member of the [Demi-God] Race, I Want to Live a Normal Life in Another World",
+          "chapter": "Chapter 27-1-eng-li",
+          "url": "https://www.mgeko.cc/manga/wa-isekai-demo-futsuu-ni-kurashitai/"
+        },
+        {
+          "id": "ba0353bb4e4045f08700bb8dbcf988e08039f65454e9080f819adad90bf10cb7",
+          "title": "Chronicles of the Demon Slayer",
+          "chapter": "Chapter 19-eng-li",
+          "url": "https://www.mgeko.cc/manga/bhky-chronicles-of-the-demon-slayer/"
+        },
+        {
+          "id": "5452e86b29317c795c72e738a8c9a92c088bf9c42761ea871348e0c869b97b87",
+          "title": "Plagiarism Suspicion",
+          "chapter": "Chapter 29-eng-li",
+          "url": "https://www.mgeko.cc/manga/plagiarism-suspicion/"
+        },
+        {
+          "id": "9767557cce0c5b5d91b5fe4acc2dee37b606de535ca311f0c5edec407d45d3b1",
+          "title": "Miss Ji-Hye, The Uncool Adult",
+          "chapter": "Chapter 24-eng-li",
+          "url": "https://www.mgeko.cc/manga/j2yn-uncool-adult-ji-hye/"
+        }
+      ]
+    }
+  ]
 }
