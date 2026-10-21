@@ -1,0 +1,11 @@
+{
+  "poll_interval_minutes": 60,
+  "request_delay_seconds": 2,
+  "manga": [],
+  "feeds": [{
+    "id": "mgeko",
+    "name": "Mgeko",
+    "parser": "mgeko_updates_feed",
+    "url": "https://www.mgeko.cc/jumbo/manga/"
+  }]
+}

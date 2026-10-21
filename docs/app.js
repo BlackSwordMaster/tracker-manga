@@ -1,45 +1,13 @@
-const READ_STORE = "manga-tracker-read-v2";
-const SUB_STORE = "manga-tracker-subscriptions-v2";
-let filter = "unread";
-let data = { feeds: [] };
-const read = () => new Set(JSON.parse(localStorage.getItem(READ_STORE) || "[]"));
-const subscriptions = () => new Set(JSON.parse(localStorage.getItem(SUB_STORE) || "[]"));
-const save = (key, values) => localStorage.setItem(key, JSON.stringify([...values]));
-const entries = () => data.feeds.flatMap(feed => feed.entries.map(entry => ({ ...entry, site: feed.name })));
-
-function render() {
-  const seen = read(), followed = subscriptions(), root = document.querySelector("#manga-list");
-  root.replaceChildren();
-  let unreadCount = 0;
-  for (const title of followed) {
-    const all = entries().filter(entry => entry.title === title);
-    const chapters = filter === "all" ? all : all.filter(entry => !seen.has(entry.id));
-    unreadCount += all.filter(entry => !seen.has(entry.id)).length;
-    const fragment = document.querySelector("#manga-template").content.cloneNode(true);
-    fragment.querySelector("h2").textContent = title;
-    fragment.querySelector(".source").textContent = all[0]?.site || "Waiting for an update";
-    fragment.querySelector(".read-all").onclick = () => { all.forEach(c => seen.add(c.id)); save(READ_STORE, seen); render(); };
-    const list = fragment.querySelector("ul");
-    if (!chapters.length) list.innerHTML = `<li class=empty>${filter === "unread" ? "You’re caught up." : "No current feed entries."}</li>`;
-    for (const chapter of chapters) {
-      const item = document.createElement("li"), link = document.createElement("a"), button = document.createElement("button");
-      link.href = chapter.url; link.target = "_blank"; link.rel = "noopener"; link.textContent = chapter.chapter;
-      button.textContent = seen.has(chapter.id) ? "Read" : "Mark read";
-      button.onclick = () => { seen.add(chapter.id); save(READ_STORE, seen); render(); };
-      item.append(link, button); list.append(item);
-    }
-    root.append(fragment);
-  }
-  document.querySelector("#summary").textContent = unreadCount ? `${unreadCount} unread chapter${unreadCount === 1 ? "" : "s"}` : followed.size ? "You’re all caught up." : "Add a manga to start your tracker.";
-}
-
-document.querySelector("#add-form").onsubmit = event => {
-  event.preventDefault(); const input = document.querySelector("#title"), title = input.value.trim();
-  const available = new Set(entries().map(entry => entry.title));
-  if (!available.has(title)) { document.querySelector("#add-help").textContent = "Choose an exact title from the suggestions; it may not be in the latest feed yet."; return; }
-  const followed = subscriptions(), seen = read();
-  followed.add(title); entries().filter(entry => entry.title === title).forEach(entry => seen.add(entry.id));
-  save(SUB_STORE, followed); save(READ_STORE, seen); input.value = ""; document.querySelector("#add-help").textContent = "Added. Current feed entries were marked read; new chapters will appear here."; render();
-};
-document.querySelectorAll("nav button").forEach(button => button.onclick = () => { filter = button.dataset.filter; document.querySelectorAll("nav button").forEach(b => b.classList.toggle("active", b === button)); render(); });
-fetch("data/chapters.json", { cache: "no-store" }).then(r => r.ok ? r.json() : Promise.reject()).then(json => { data = json; const titles = [...new Set(entries().map(e => e.title))].sort(); document.querySelector("#titles").replaceChildren(...titles.map(title => Object.assign(document.createElement("option"), { value: title }))); render(); }).catch(() => { document.querySelector("#summary").textContent = "Chapter data is not available yet."; });
+import { initializeApp } from "https://www.gstatic.com/firebasejs/13.0.0/firebase-app.js";
+import { getAuth, GoogleAuthProvider, onAuthStateChanged, signInWithPopup, signOut } from "https://www.gstatic.com/firebasejs/13.0.0/firebase-auth.js";
+import { doc, getDoc, getFirestore, setDoc } from "https://www.gstatic.com/firebasejs/13.0.0/firebase-firestore.js";
+import { firebaseConfig, OWNER_UID } from "./firebase-config.js";
+const app=initializeApp(firebaseConfig),auth=getAuth(app),db=getFirestore(app),ref=doc(db,"private","owner-tracker");
+let data={feeds:[]}, state={titles:[],seen:[]}, user, filter="unread";
+const entries=()=>data.feeds.flatMap(f=>f.entries.map(e=>({...e,site:f.name})));
+const save=()=>setDoc(ref,state);
+function render(){const root=document.querySelector("#manga-list"),seen=new Set(state.seen);root.replaceChildren();for(const title of state.titles){const all=entries().filter(e=>e.title===title),rows=filter==="all"?all:all.filter(e=>!seen.has(e.id)),n=document.querySelector("#manga-template").content.cloneNode(true);n.querySelector("h2").textContent=title;n.querySelector(".source").textContent=all[0]?.site||"Waiting for an update";n.querySelector(".read-all").onclick=async()=>{state.seen=[...new Set([...state.seen,...all.map(e=>e.id)])];await save();render()};const list=n.querySelector("ul");if(!rows.length)list.innerHTML="<li class=empty>You’re caught up.</li>";for(const c of rows){const li=document.createElement("li"),a=document.createElement("a"),b=document.createElement("button");a.href=c.url;a.target="_blank";a.textContent=c.chapter;b.textContent="Mark read";b.onclick=async()=>{state.seen=[...new Set([...state.seen,c.id])];await save();render()};li.append(a,b);list.append(li)}root.append(n)}}
+document.querySelector("#sign-in").onclick=()=>signInWithPopup(auth,new GoogleAuthProvider());document.querySelector("#sign-out").onclick=()=>signOut(auth);
+document.querySelector("#add-form").onsubmit=async e=>{e.preventDefault();const input=document.querySelector("#title"),title=input.value.trim();if(!entries().some(x=>x.title===title)){document.querySelector("#add-help").textContent="Choose an exact title from the suggestions.";return}state.titles=[...new Set([...state.titles,title])];state.seen=[...new Set([...state.seen,...entries().filter(x=>x.title===title).map(x=>x.id)])];await save();input.value="";render()};
+document.querySelectorAll("nav button").forEach(b=>b.onclick=()=>{filter=b.dataset.filter;render()});fetch("data/chapters.json",{cache:"no-store"}).then(r=>r.json()).then(x=>{data=x;document.querySelector("#titles").replaceChildren(...[...new Set(entries().map(e=>e.title))].map(t=>Object.assign(document.createElement("option"),{value:t}))) });
+onAuthStateChanged(auth,async u=>{user=u;document.querySelector("#sign-in").hidden=!!u;document.querySelector("#sign-out").hidden=!u;const note=document.querySelector("#account");if(!u){note.textContent="Sign in to use your private tracker.";return}if(!OWNER_UID){note.textContent=`Owner setup: your Firebase UID is ${u.uid}. Add it to firebase-config.js.`;return}if(u.uid!==OWNER_UID){note.textContent="Owner access only.";return}note.textContent=`Signed in as ${u.email}`;const saved=await getDoc(ref);if(saved.exists())state=saved.data();render()});
