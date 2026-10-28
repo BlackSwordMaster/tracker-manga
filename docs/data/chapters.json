@@ -1,4 +1,361 @@
 {
   "manga": [],
-  "feeds": []
+  "feeds": [
+    {
+      "id": "mgeko",
+      "name": "Mgeko",
+      "entries": [
+        {
+          "id": "823b6131acc3dca7fe3352a91b1fb770f3b9138c94eecfec45b49fb9c1ba7933",
+          "title": "Girl and Science",
+          "chapter": "Chapter 676-eng-li",
+          "url": "https://www.mgeko.cc/manga/16463/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/16463.jpg"
+        },
+        {
+          "id": "0453041caaa92d30518051f6ca4c062d8aa801eeb9d27099f5b69317b91c7d89",
+          "title": "Yokai Come to the Countryside Caf\u00e9",
+          "chapter": "Chapter 6-eng-li",
+          "url": "https://www.mgeko.cc/manga/yokai-come-to-the-countryside-cafe/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/2026-10-26-02-07-09-1793023629537.webp"
+        },
+        {
+          "id": "522aa3c8811889740d17429eeccbb18539df0a23765f9452b85b534fad434c73",
+          "title": "Eiyuu Kaiki wa Hyakuman-kaime",
+          "chapter": "Chapter 16-eng-li",
+          "url": "https://www.mgeko.cc/manga/15gd-eiyuu-kaiki-wa-hyakuman-kaime/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/X81Mjz.png"
+        },
+        {
+          "id": "a18ef139b1b2cf3937713cd7e7495e62b1af3b716ddd3e57d980d427c3958169",
+          "title": "Reborn as the Strategist of My Enemy's Brother",
+          "chapter": "Chapter 33-eng-li",
+          "url": "https://www.mgeko.cc/manga/reborn-as-the-strategist-of-my-enemys-brother/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/kiopoi.webp"
+        },
+        {
+          "id": "df49d9c897aa9eba18b05c7c6bb1ef8a5887258fea97327d5ac32f366df55640",
+          "title": "Mood Disorder",
+          "chapter": "Chapter 98-eng-li",
+          "url": "https://www.mgeko.cc/manga/mood-disorder/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mood-disorder.webp"
+        },
+        {
+          "id": "dacb18daa3bfdcda5022555e305fb25a5b40f72683f792ba24ee9730463e13b7",
+          "title": "Jungle Juice",
+          "chapter": "Chapter 228-eng-li",
+          "url": "https://www.mgeko.cc/manga/manga-q199/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/59669.jpg"
+        },
+        {
+          "id": "480ab439510b5b2229a6ace0f889e008a7f14ca7217a88b19622e475ec60b2b3",
+          "title": "Dominating with the Price Collapse System",
+          "chapter": "Chapter 111-eng-li",
+          "url": "https://www.mgeko.cc/manga/dominating-with-the-price-collapse-system/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/z7Qgre-s.jpg"
+        },
+        {
+          "id": "4b155eb9f93968a4c9276eb907d1f65b01200d3ff935ce343ecebf5d84060b43",
+          "title": "I Became the Scoundrel of the Cheon Family",
+          "chapter": "Chapter 27-eng-li",
+          "url": "https://www.mgeko.cc/manga/i-became-the-scoundrel-of-the-cheon-family/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/ytuopp.webp"
+        },
+        {
+          "id": "493c7a8200cf81f87e41b06caa564210c1315acd4f0ff665bdcd2514fbf3b082",
+          "title": "CMYK",
+          "chapter": "Chapter 31-eng-li",
+          "url": "https://www.mgeko.cc/manga/cmyk/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/jxXxGM-m.jpg"
+        },
+        {
+          "id": "e442c5378650116834ae4f03ee5e7fc2e2e4960c2d8380ed6c9b628abc582f07",
+          "title": "After All Eight Empresses Betrayed Me, I Was Reborn in Regret",
+          "chapter": "Chapter 46-eng-li",
+          "url": "https://www.mgeko.cc/manga/after-all-eight-empresses/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mlloi.webp"
+        },
+        {
+          "id": "3a36ecb4c3d88091e048704ac7019db32d28b189a2ff47c25346a72d6777b1f6",
+          "title": "The Worlds Strongest Flame Magician",
+          "chapter": "Chapter 2-eng-li",
+          "url": "https://www.mgeko.cc/manga/nwpl-the-worlds-strongest-flame-magician/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/6ae1acd757cf0.jpg"
+        },
+        {
+          "id": "88f9a81c4a7c824cdb706fb48d4d35f0ee584384b88a1313c018d4b05aa1d1ed",
+          "title": "Global Beast Tamer: I Can See the Path of Evolution (2025)",
+          "chapter": "Chapter 112-eng-li",
+          "url": "https://www.mgeko.cc/manga/global-beast-tamer-i-can-see-the-path-of-evolution-hai/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/global-beast-tamer-i-can-see-the-path-of-evolution-2.webp"
+        },
+        {
+          "id": "275e1a24507748aa6ec3a07ada204123189b713c2b39bc3d32b459177980b038",
+          "title": "Everyone\u2019s job transfer: Shadow Lord, I\u2019m invincible, you can do whatever you want",
+          "chapter": "Chapter 5-eng-li",
+          "url": "https://www.mgeko.cc/manga/everyones-job-transfer-shadow/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/ere.webp"
+        },
+        {
+          "id": "a62338acccdce724054a9d8b523a0ae387270ed9424966065210802a591d525e",
+          "title": "Kunon The Sorcerer Can See Through",
+          "chapter": "Chapter 51-3-eng-li",
+          "url": "https://www.mgeko.cc/manga/kunon-the-sorcerer-can-see-through/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/kunon-the-sorcerer-can-see-through.jpg"
+        },
+        {
+          "id": "93c3d88f705c29ec10200dec6db4cbb8ba3fed1a8f51522b3b969cf4c461cdeb",
+          "title": "Ushiro no Seki no Gyaru ni Sukarete Shimatta -Mou Ore wa Damekamoshirenai-",
+          "chapter": "Chapter 30-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-gal-sitting-behind-me-likes-me-maybe-i-m-screwed-already/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Nrq36z-m.jpg"
+        },
+        {
+          "id": "2393742a5acde16fc5294c405490232747173ddceca9f8df7df5e1b3029e185c",
+          "title": "Green Skin",
+          "chapter": "Chapter 25-eng-li",
+          "url": "https://www.mgeko.cc/manga/eu39-green-skin/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/brBw3R.png"
+        },
+        {
+          "id": "41503be6de87d8b2c206d8a7f4e572bf158915fc9e48aa00b3f8303dd39fd70e",
+          "title": "Isshiki-san wa Koi wo shiritai",
+          "chapter": "Chapter 55-eng-li",
+          "url": "https://www.mgeko.cc/manga/isshiki-san-wa-koi-wo-shiritai/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/BLed0J-m.jpg"
+        },
+        {
+          "id": "5b48b7edd33d7fd252b57da5337d53169916cb520d59db2f9a31d882f01b3902",
+          "title": "Maxed Strength Necromancer",
+          "chapter": "Chapter 150-eng-li",
+          "url": "https://www.mgeko.cc/manga/maxed-strength-necromancer/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/maxed-strength-necromancer.jpg"
+        },
+        {
+          "id": "3328b80086cb7288ec4d3d649cb41a5c3cb488037cbbac12c15050a25a5f5f76",
+          "title": "As a Member of the [Demi-God] Race, I Want to Live a Normal Life in Another World",
+          "chapter": "Chapter 27-2-eng-li",
+          "url": "https://www.mgeko.cc/manga/wa-isekai-demo-futsuu-ni-kurashitai/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/wa-isekai-demo-futsuu-ni-kurashitai.jpg"
+        },
+        {
+          "id": "5ce732a39cba594503d5ec83fe2d535701363178ed9f444ae57e3d43c5f8c7ff",
+          "title": "Teto X Egen",
+          "chapter": "Chapter 25-eng-li",
+          "url": "https://www.mgeko.cc/manga/fiv0-teto-x-egen/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/z7dzpq.png"
+        },
+        {
+          "id": "09acfbad4a23d7fdca5826d5cc4030f4cee707f4f1a062f49418b33b2a328c2d",
+          "title": "My Exclusive Tower Guide",
+          "chapter": "Chapter 143-eng-li",
+          "url": "https://www.mgeko.cc/manga/my-exclusive-tower-guide/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/my-exclusive-tower-guide.jpg"
+        },
+        {
+          "id": "d636fa9494f744e25294a81cd9b07d927dd63644639644af12847665a23e5760",
+          "title": "Breakers",
+          "chapter": "Chapter 126-eng-li",
+          "url": "https://www.mgeko.cc/manga/breakers/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/2NvGYZ-m.jpg"
+        },
+        {
+          "id": "5090f1ca61b03ce52eecb337db124348f00ee976c4929926b12273cd0858f25c",
+          "title": "Leveling Up By Killing Gods",
+          "chapter": "Chapter 148-eng-li",
+          "url": "https://www.mgeko.cc/manga/leveling-up-by-killing-gods/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/leveling-up-by-killing-gods.jpg"
+        },
+        {
+          "id": "5a00b8afa262168eb268271fa66a863236c667b324a7c5285b1247323b90833e",
+          "title": "Miss Ji-Hye, The Uncool Adult",
+          "chapter": "Chapter 25-eng-li",
+          "url": "https://www.mgeko.cc/manga/j2yn-uncool-adult-ji-hye/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/YgY8vX.jpg"
+        },
+        {
+          "id": "5ab982f8d40a870eac309115e320d3fb603ae3b201740913c63a0a540978f21e",
+          "title": "I'm Really Not A Demon Beast",
+          "chapter": "Chapter 13-eng-li",
+          "url": "https://www.mgeko.cc/manga/x66c-wo-zhen-bu-shi-mo-shou/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/kRoBdv.png"
+        },
+        {
+          "id": "1ffc1f95c11194369429fed523f1fa30537931db92c0dc60a4c99f3c0209bdab",
+          "title": "Please Stop Healing Me, Great Sage!",
+          "chapter": "Chapter 26-eng-li",
+          "url": "https://www.mgeko.cc/manga/mou-yamete-kaifuku-shinaide-kenja-sama/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mou-yamete-kaifuku-shinaide-kenja-sama.jpg"
+        },
+        {
+          "id": "a9dddf40e1ebaa0458d6a27f3b8cbb5446a9b3cf1e787203520a0b53382edf60",
+          "title": "The Chronicle of Seven Cities",
+          "chapter": "Chapter 20-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-chronicle-of-seven-cities-mg1/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/40277.jpg"
+        },
+        {
+          "id": "a2b2a6d708c940c57ba72409143941c6499f8962fe962681a8c8cc6a4bf3e29b",
+          "title": "King of Beasts",
+          "chapter": "Chapter 65-eng-li",
+          "url": "https://www.mgeko.cc/manga/king-of-beasts/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/king-of-beasts.webp"
+        },
+        {
+          "id": "adce9ff4510ba2bf41dd0f2f855e78338b12c5be7ed701058daf97ac5a945d53",
+          "title": "Murim\u2019s Dept King",
+          "chapter": "Chapter 24-eng-li",
+          "url": "https://www.mgeko.cc/manga/murims-dept-king/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/sakr.jpg"
+        },
+        {
+          "id": "adc23257f41824ed36260c0ca42d829abd4f88e3614681b635f2f810797352b2",
+          "title": "Plagiarism Suspicion",
+          "chapter": "Chapter 30-eng-li",
+          "url": "https://www.mgeko.cc/manga/plagiarism-suspicion/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1767832069-695efa058e998-plagiarismsuspicion.webp"
+        },
+        {
+          "id": "f5ca9044462d96afb8dbb7688ed74b1181ac999b4559e45ee7d56d7707267129",
+          "title": "The Mysterious World\u2019s Greatest Martial Artist Little Prince",
+          "chapter": "Chapter 147-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-mysterious-worlds-greatest-martial-artist-little-prince/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/The-Mysterious-Worlds-Greatest-Martial-Artist-Little-Prince-193x278.webp"
+        },
+        {
+          "id": "67ca7b14f95c4086b0cb3164a268e090ec1e1cf450631f3786a799be2ae33f72",
+          "title": "Debtbound by Blood",
+          "chapter": "Chapter 48-eng-li",
+          "url": "https://www.mgeko.cc/manga/debtbound-by-blood/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/01KDN6KBG6NRRFRJAFASZBTTVB-optimized.webp"
+        },
+        {
+          "id": "88462da94838b2c9a46520d2f24b72bfd9529995b2818e441e3748593713268f",
+          "title": "I Ushered in the Age of Mythical Pet Beasts",
+          "chapter": "Chapter 65-eng-li",
+          "url": "https://www.mgeko.cc/manga/f0zq-i-ushered-in-the-age-of-mythical-pet-beasts/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1781288049276-e9pmWW-37331.webp"
+        },
+        {
+          "id": "d5c88ff5feb0061d03e411ef6118ed8581eeed7f35d8bb0f3eace93f7a58dbeb",
+          "title": "The Flash Adventurer",
+          "chapter": "Chapter 10-eng-li",
+          "url": "https://www.mgeko.cc/manga/f-adv/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/bbbfff.jpg"
+        },
+        {
+          "id": "08b78b526479ad8aeb0e10c0dacd6f82146e01db0d5d6a29a390116a82d6059a",
+          "title": "Destroy All Of Humanity. It Can't Be Regenerated",
+          "chapter": "Chapter 72-eng-li",
+          "url": "https://www.mgeko.cc/manga/destroy-all-of-humanity-it-can-t-be-regenerated/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/91JpngxeOWL.jpg"
+        },
+        {
+          "id": "bb7800349ad6f41718df7fba25d519f8a04d2edd14935d20f98a62c7fa5a1ccb",
+          "title": "Heavenly Demon Cultivation Simulation",
+          "chapter": "Chapter 204-eng-li",
+          "url": "https://www.mgeko.cc/manga/heavenly-demon-cultivation-simulation-mg1/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/heavenly-demon-cultivation-simulation.jpg"
+        },
+        {
+          "id": "5ca6f557c50626979f0cf167ef86aae140a435ec0e89189e5a4c62b74ea0d25f",
+          "title": "Momose Akira's First Love is a Failure",
+          "chapter": "Chapter 103-eng-li",
+          "url": "https://www.mgeko.cc/manga/momose-akira-no-hatsukoi-hatan-chuu/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/momose-akira-no-hatsukoi-hatan-chuu.jpg"
+        },
+        {
+          "id": "14a0aae1276e41229bb2710f4a1f20bbef1818fc7343008c2013a4e1a6da3289",
+          "title": "Mikadono Sanshimai wa Angai, Choroi",
+          "chapter": "Chapter 224-eng-li",
+          "url": "https://www.mgeko.cc/manga/mikadono-sanshimai-wa-angai-choroi/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mikadono-sanshimai-wa-angai-choroi.jpg"
+        },
+        {
+          "id": "eb8742e0b57573f6e70612d2598112dc925ce874de0204ce6172bad0a87b145a",
+          "title": "After Becoming Financially Free, They Offered Their Loyalty",
+          "chapter": "Chapter 128-eng-li",
+          "url": "https://www.mgeko.cc/manga/after-becoming-financially-free-they-offered-their-loyalty/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Nrkqyv.webp"
+        },
+        {
+          "id": "c9030f0d3107077990068a684fcb3d78d7d2c19e0e11d06a07c71de6d4c15629",
+          "title": "Undead Catastrophe: A Sea of Bones at My Command",
+          "chapter": "Chapter 63-eng-li",
+          "url": "https://www.mgeko.cc/manga/c7a2-undead-catastrophe-a-sea-of-bones-at-my-command/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1781288724874-ylotyt-37340.webp"
+        },
+        {
+          "id": "18d4515a63294a6c21cb3d887c392e773640e0a6e141d6568a1307927569a593",
+          "title": "The Spirit Suppressing Museum",
+          "chapter": "Chapter 62-eng-li",
+          "url": "https://www.mgeko.cc/manga/i0nr-the-spirit-suppressing-museum/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1775406482015-3f5oAw-1903.webp"
+        },
+        {
+          "id": "a3ce9cccd6f97a8f8657cc78ca4d0411e020da6f5d7fa96f83509fdb1b75f277",
+          "title": "Kaiten no Albus",
+          "chapter": "Chapter 106-eng-li",
+          "url": "https://www.mgeko.cc/manga/albus-changes-the-world/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/albus-changes-the-world.jpg"
+        },
+        {
+          "id": "29196758b6c6ce068504dfe55d913c6e17eb564f71e3811d293af6fe368094cf",
+          "title": "Majutsu Guild Sousui ~Umarekawatte Imasara Yarinaosu Nidome no Gakuin Seikatsu~",
+          "chapter": "Chapter 140-eng-li",
+          "url": "https://www.mgeko.cc/manga/umarekawatte-imasara-yarinaosu-nidome-no-gakuin-seikatsu/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/umarekawatte-imasara-yarinaosu-nidome-no-gakuin-seikatsu.jpg"
+        },
+        {
+          "id": "2b238b2435bb3bf90c46cf730a3a3f01fa9cd107fec1de10a3d063ab6fd6637d",
+          "title": "The Case In Which Streaming In Another World Led To The Creation Of A Massive Yandere Following",
+          "chapter": "Chapter 73-eng-li",
+          "url": "https://www.mgeko.cc/manga/yandere-shinja-wo-umidashite-shimatta-ken/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/yandere-shinja-wo-umidashite-shimatta-ken.jpg"
+        },
+        {
+          "id": "d7e2e2a30d34a84287e109f7283ce8a3cce1924aa50ca714b17f81357aec8352",
+          "title": "Isekai Walking",
+          "chapter": "Chapter 165-eng-li",
+          "url": "https://www.mgeko.cc/manga/isekai-walking/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/isekai-walking.jpg"
+        },
+        {
+          "id": "99fbf1aab485cc14310f6a7268a140a84655b414be805a293b21ad7f1160c42b",
+          "title": "I was reincarnated as the 7th Prince so I will perfect my magic as I please",
+          "chapter": "Chapter 226-eng-li",
+          "url": "https://www.mgeko.cc/manga/i-was-reincarnated-as-the-7th-prince-so-i-w/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/52827_DE9Z2Wp.jpg"
+        },
+        {
+          "id": "6fd7f90e14009e3598e4e95a84926af8107bebc0f9b1cfab09a5426575eac5e7",
+          "title": "Tales of Demons and Gods",
+          "chapter": "Chapter 536-1-eng-li",
+          "url": "https://www.mgeko.cc/manga/tales-of-demons-and-gods-manhua/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1_9MJ9f3I.jpg"
+        },
+        {
+          "id": "0add867f7e495eb198aaf203d1966f990c36370d8964c7beeead8a5ee7c15fbf",
+          "title": "Dr. Choi Tae-Soo",
+          "chapter": "Chapter 328-eng-li",
+          "url": "https://www.mgeko.cc/manga/dr-choi-tae-soo-mg1/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/image_3_lEx7Cd9.jpg"
+        },
+        {
+          "id": "653cc94f9e0c69507affd40e4b86b8d7ce206a994da4010ed744f7021ca6e356",
+          "title": "Becoming A Legendary Ace Employee",
+          "chapter": "Chapter 162-eng-li",
+          "url": "https://www.mgeko.cc/manga/becoming-a-legendary-ace-employee/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/oming-a-legendary-ace-employee.webp"
+        },
+        {
+          "id": "892c61493bc307a9de942f0e41d7c04a70461e1b4ff4018625d563813cdd5b9e",
+          "title": "Return of the Star Player",
+          "chapter": "Chapter 27-eng-li",
+          "url": "https://www.mgeko.cc/manga/return-of-the-star-player/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/zxzxz8768787.jpg"
+        }
+      ]
+    }
+  ]
 }
