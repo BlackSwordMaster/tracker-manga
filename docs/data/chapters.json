@@ -6,6 +6,279 @@
       "name": "Mgeko",
       "entries": [
         {
+          "id": "cf3a22f7cb26e6ef78d3ad1b735cec4513b4bb3f02aa08b6d3ece696959f1ce7",
+          "title": "Ghost Story Market",
+          "chapter": "Chapter 7-eng-li",
+          "url": "https://www.mgeko.cc/manga/kfuu-ghost-story-market/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/4kk38X.png"
+        },
+        {
+          "id": "b983bdfabdfa9b4f58e76cdb4376bd44871fddee41c8de06d97f802e3b438cca",
+          "title": "The Lost City of Alien Beasts",
+          "chapter": "Chapter 55-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-lost-city-of-alien-beasts/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-lost-city-of-alien-beasts.jpg"
+        },
+        {
+          "id": "9545b6f81cc2ece2bcca76c7960705a4f15806b457488fd18ae1b711c5244741",
+          "title": "LV999 no Murabito",
+          "chapter": "Chapter 113-eng-li",
+          "url": "https://www.mgeko.cc/manga/lv999-no-murabito2/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/murabito.jpg"
+        },
+        {
+          "id": "2ca8a787612590aa840748e0781fdb336bc2c66e3ad784793229c8c20312644b",
+          "title": "Assassin X Dragon",
+          "chapter": "Chapter 27-eng-li",
+          "url": "https://www.mgeko.cc/manga/78pn-assassin-x-dragon/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/aOBKGb.png"
+        },
+        {
+          "id": "4629600ef438a90a32cfad2e3d8e8f9bbb781c849ec385ef448e7c10e253bd5e",
+          "title": "Ranker Who Lives A Second Time",
+          "chapter": "Chapter 236-eng-li",
+          "url": "https://www.mgeko.cc/manga/ranker-who-lives-a-second-timeasd/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/lives-a-second-time.jpg"
+        },
+        {
+          "id": "efba507ae35d13f79c35cd9d808f917be18b3eceac7b88c934d1ec1477c7674e",
+          "title": "The Joseon prince went to America and didn\u2019t return",
+          "chapter": "Chapter 81-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-joseon-prince-went-to-america-and/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/prince-went-to-america-and-didnt-return.webp"
+        },
+        {
+          "id": "301e5124f9682134f37bfdcbe21beda5f200fb7ec519a5a165275f380506ca46",
+          "title": "Debby The Corsifa Is Emulous",
+          "chapter": "Chapter 66-eng-li",
+          "url": "https://www.mgeko.cc/manga/debby-the-corsifa-wa-makezugirai/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/debby-the-corsifa-wa-makezugirai.jpg"
+        },
+        {
+          "id": "14d7b4c9c3af2d4c1fe79a33ca367a687ca5fc0ac335f04bfc62a6516f835aec",
+          "title": "Tomb Raider King:End Line",
+          "chapter": "Chapter 32-eng-li",
+          "url": "https://www.mgeko.cc/manga/duif-tomb-raider-king-end-line-2/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/8yz45n.jpg"
+        },
+        {
+          "id": "97475fffb39cc87e1116410793a879a96f8bfe99342cf05064618e568bb345c7",
+          "title": "The Reincarnated Assassin is a Genius Swordsman",
+          "chapter": "Chapter 99-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-reincarnated-assassin-is-a-genius-swordsman/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-reincarnated-assassin-is-a-genius-swordsman.png"
+        },
+        {
+          "id": "ab88e30a6c20bd86244befb470ac68dfdb783c0a0ec99cc2a20562f447682fcf",
+          "title": "The Postman of the Apocalypse",
+          "chapter": "Chapter 43-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-postman-of-the-apocalypse/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/hhfgdfqaer3q.webp"
+        },
+        {
+          "id": "ce291088d3c9bff9bd76beb42c776de1ae7061fd3160fa8787a14a0467d960b1",
+          "title": "Bokunchi no Maid-san tachi",
+          "chapter": "Chapter 4-eng-li",
+          "url": "https://www.mgeko.cc/manga/bokunchi-no-maid-san-tachi/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/bokunchi-no-maid-san-tachi.jpg"
+        },
+        {
+          "id": "ae5678d8ae65dd11cf93203cb8b673c1a2ae36fa733dfcf8c8307bf9d2e34531",
+          "title": "Injecting Magical Power through My Caressing Skill",
+          "chapter": "Chapter 10-2-eng-li",
+          "url": "https://www.mgeko.cc/manga/nade-nade-skill-de-maryoku-chuunyuu/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/nade-nade-skill-de-maryoku-chuunyuu.jpg"
+        },
+        {
+          "id": "8e7507d601c286d992b6acadc4fe5a05cd9554409afeed28f40b5db5061c840a",
+          "title": "A Dragon Lives in Kunlun",
+          "chapter": "Chapter 19-eng-li",
+          "url": "https://www.mgeko.cc/manga/7xpa-a-dragon-lives-in-kunlun/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/v8v4yb.png"
+        },
+        {
+          "id": "a5df4bb6209f2e09662be5f4d1386ad99a02c247b3a006e32c56a7102517c1c6",
+          "title": "Reincarnation of the Veteran Soldier",
+          "chapter": "Chapter 224-eng-li",
+          "url": "https://www.mgeko.cc/manga/reincarnation-of-the-veteran-soldier/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/reincarnation-of-the-veteran-soldier.png"
+        },
+        {
+          "id": "bf4773670ddd514937148894b95505b0b1bcc98eaf7b8be8195b484fdbffb2bf",
+          "title": "The Ordinary Lawyer's Subspace",
+          "chapter": "Chapter 49-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-ordinary-lawyers-subspace/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Z8Byqv-s.jpg"
+        },
+        {
+          "id": "0f695a30163ce1ddfc6859ba879a5ca065ed5d356d3ca414f7200eb60a536210",
+          "title": "I May Be a Beginner, but I\u2019m Actually a Level 99 Overpowered Player",
+          "chapter": "Chapter 33-eng-li",
+          "url": "https://www.mgeko.cc/manga/mxcw-i-may-be-a-beginner-but-im-actually-a-level-99-overpowered-player/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/v8vpE3.jpg"
+        },
+        {
+          "id": "8c3bf49fe078f37cd785604ddf22030da1322d12744dbed1d88ae3344cb8c3a4",
+          "title": "Chaos Heavenly Emperor",
+          "chapter": "Chapter 144-eng-li",
+          "url": "https://www.mgeko.cc/manga/chaos-heavenly-emperor/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/v8pyMW.webp"
+        },
+        {
+          "id": "41d48feebe14efa1ed020bc99707097fe24a3517969536f7a5e3ba5f38577799",
+          "title": "The Return of the Scorned Genius",
+          "chapter": "Chapter 29-eng-li",
+          "url": "https://www.mgeko.cc/manga/0xkj-the-return-of-the-scorned-genius/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Jn4QRG.JPEG"
+        },
+        {
+          "id": "7b235929c14c660784c831b250606664a00f0b463aa207ed8083186a09f8c1fe",
+          "title": "Reincarnated as a Mediocre Member of a Prestigious Family, I Used to Be the Strongest",
+          "chapter": "Chapter 31-eng-li",
+          "url": "https://www.mgeko.cc/manga/reincarnated-as-a-mediocre/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/nazar.webp"
+        },
+        {
+          "id": "5ea43e7cc5373ea001f0a769491edfa8413e3c5f09de24fbf9fe0ab7110a6f96",
+          "title": "All the Heroes Are My Enemies: The \u2018Useless\u2019 Class Dropout Overpowers Everyone With His Barrier Skill and Takes Revenge",
+          "chapter": "Chapter 26-eng-li",
+          "url": "https://www.mgeko.cc/manga/pppv-all-the-heroes-are-my-enemies-the-useless-class-dropout-overpowers-everyone-with-his-barrier-skill-and-takes-revenge/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/rxvR0o.png"
+        },
+        {
+          "id": "0605e22c0f62de1d6fad8bfd932a668fd2ed2ccabcf3e1ebd8b17a77fee34d81",
+          "title": "Infinite Breakthrough",
+          "chapter": "Chapter 25-eng-li",
+          "url": "https://www.mgeko.cc/manga/114f-infinite-breakthrough/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/x7KXo8.png"
+        },
+        {
+          "id": "052871fe4e9dbdebbc17898d818859c297b564efe4bb8e09f615f84e633ce89a",
+          "title": "Gamer ga Isekai Konten Shite Harem Jinsei e Continue suru Sou desu",
+          "chapter": "Chapter 15-eng-li",
+          "url": "https://www.mgeko.cc/manga/ga-isekai-konten-shite-harem-jinsei-e-continue-suru-sou-desu/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/ga-isekai-konten-shite-harem-jinsei-e-continue-suru-sou-desu.jpg"
+        },
+        {
+          "id": "255112f93211a661844d98d7a5f7567a08bf04d7b7ca89c38baa161e0ad64087",
+          "title": "Unparalleled Under The Heaven",
+          "chapter": "Chapter 100-eng-li",
+          "url": "https://www.mgeko.cc/manga/unparalleled-under-the-heaven/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/unparalleled-under-the-heaven-2.png"
+        },
+        {
+          "id": "83d77c55c83a1549f09bfde98c00f5c7cb3b9eb691ccd0c03f03dcaf3d56690f",
+          "title": "The Dark Magician Transmigrates After 66666 Years",
+          "chapter": "Chapter 204-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-dark-magician-transmigrates-after-66666-years/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/transmigrates-after-66666-years.png"
+        },
+        {
+          "id": "2bb91c60ac16c113b309bbc04bcbd57ce0534963b9191c5cd4323172b392bc44",
+          "title": "Wall Street Genius's Time-Limited Investment Method",
+          "chapter": "Chapter 16-eng-li",
+          "url": "https://www.mgeko.cc/manga/rtt4-wall-street-genius-s-time-limited-investment-method/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Z8p26v.png"
+        },
+        {
+          "id": "ec44b2e3a5590d58af638fd61badc96fe04ffafcd4f91e5d3fb174574f5de1cc",
+          "title": "The Dan Family's Good-For-Nothing Is Too Strong",
+          "chapter": "Chapter 54-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-dan-familys-good-for-nothing-is-too-strong/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/6bOBw7.webp"
+        },
+        {
+          "id": "b1cbb61cb639c21fe1b41c95857eeba9d8d9b117e9ac02747e5e6deeb4148061",
+          "title": "Leveling Up with Monsters: Shadow Sovereign",
+          "chapter": "Chapter 28-eng-li",
+          "url": "https://www.mgeko.cc/manga/y44m-monsuta-to-tomo-ni-reberu-appu/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Yg1Wo4.png"
+        },
+        {
+          "id": "3cb548ed29352443d066f7388b1c0b0b5a6b931146495a6bf46c4e88b32892c5",
+          "title": "The Lazy Aristocrat",
+          "chapter": "Chapter 16-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-lazy-aristocrat/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-lazy-aristocrat.jpg"
+        },
+        {
+          "id": "74f52efee49ea0180c9ce7025e2b24396ec33c57eb98188fe767f142aaf41238",
+          "title": "At the North Fort, Happy Days That I Spend With Everyone!",
+          "chapter": "Chapter 38-eng-li",
+          "url": "https://www.mgeko.cc/manga/at-the-northern-fort/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/at-the-northern-fort.jpg"
+        },
+        {
+          "id": "f6cc7e26907687456049f5f982053d5fe9c1af8d458b21d31a3ff86c0aa38aef",
+          "title": "Hyoukaku no Meteoria",
+          "chapter": "Chapter 13-eng-li",
+          "url": "https://www.mgeko.cc/manga/hyoukaku-no-meteoria/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/d0W3Rz-m.jpg"
+        },
+        {
+          "id": "f889e10e2b84301d210ddffc8f6a6a243535d85c90bb4eff5f932f1ce6bd3030",
+          "title": "Idle Player Returns as a God",
+          "chapter": "Chapter 95-eng-li",
+          "url": "https://www.mgeko.cc/manga/idle-player-returns-as-a-god/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/NiegAKlCh.jpg"
+        },
+        {
+          "id": "c216390fab2de38aff80c606a955a8f94aa3faa474cfa3c5d3ef4313ae90f86b",
+          "title": "Surviving The Game as a Barbarian",
+          "chapter": "Chapter 167-eng-li",
+          "url": "https://www.mgeko.cc/manga/surviving-the-game-as-a-barbarian/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/surviving-the-game-as-a-barbarian-the-fourth-season-returns-v0-ctkldfqgyajh1.jpg"
+        },
+        {
+          "id": "263a93cd99af710891b6ea641ff5781085798ac58608612b701bd39b1732c1fb",
+          "title": "I Took over The Academy With a Single Sashimi Knife",
+          "chapter": "Chapter 101-eng-li",
+          "url": "https://www.mgeko.cc/manga/i-took-over-the-academy-with-a-single-sashimi-knife/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/Conquering-the-Academy-with-Just-a-Sashimi-Knife.jpeg"
+        },
+        {
+          "id": "66f5d95a13641cdcadd90ae349325fa0500660d6c53e1dd08a0e5bf0d5a32f2c",
+          "title": "Scoring the Sacred Body of the Ancients from the Get-go",
+          "chapter": "Chapter 176-eng-li",
+          "url": "https://www.mgeko.cc/manga/scoring-the-sacred-body-of-the-ancients-from-the-get-go/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/scoring-the-sacred-body-of-the-ancients-from-the-get-go.png"
+        },
+        {
+          "id": "02ab72c2b43a69884b8e09996c11e2d38dc446867d656bb88ee7526b61c997ed",
+          "title": "Overlord of Insects",
+          "chapter": "Chapter 141-eng-li",
+          "url": "https://www.mgeko.cc/manga/overlord-of-insects/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/overlord-of-insects.jpg"
+        },
+        {
+          "id": "182fc218e30709d3cc09d1e978cfcde12d4f1a480038607d255cb742ed666f96",
+          "title": "The Streamer",
+          "chapter": "Chapter 24-eng-li",
+          "url": "https://www.mgeko.cc/manga/the-streamer/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/straem.webp"
+        },
+        {
+          "id": "3ef69ca293fa4f99e2ea60e49c542a7d33d1fd8b8a498723718332a2a94c50d6",
+          "title": "Hell Login",
+          "chapter": "Chapter 17-eng-li",
+          "url": "https://www.mgeko.cc/manga/9vny-hell-login/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/rx2q5d_j8tN5gY.png"
+        },
+        {
+          "id": "0b3cc4c7ad440c8be55394c03870ea19e65a041a79dc530b720073bdc42c2f56",
+          "title": "Cataclysm Hunter: I have an experience point system",
+          "chapter": "Chapter 26-eng-li",
+          "url": "https://www.mgeko.cc/manga/cataclysm-hunter/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/uykjyhgfdsa.jpg"
+        },
+        {
+          "id": "6ce1a9ff4b56a36107bb3dd35a2ebabb01205b9b7d6559858eea67d793b1c622",
+          "title": "I hit the button for a million years and before I knew it, I was the strongest",
+          "chapter": "Chapter 47-2-eng-li",
+          "url": "https://www.mgeko.cc/manga/i-hit-the-button-for-a-million-years-and-before-i-knew-it-i-was-the-strongest/",
+          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/47132.jpg"
+        },
+        {
           "id": "0fdb9cfccb27bf9dd823e871a784cdf79b570b8839f0c2ee9820d2e951e259fa",
           "title": "Become the Lord of Cthulhu",
           "chapter": "Chapter 211-eng-li",
@@ -81,279 +354,6 @@
           "chapter": "Chapter 80-eng-li",
           "url": "https://www.mgeko.cc/manga/the-murderer/",
           "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/brBjZa-m.jpg"
-        },
-        {
-          "id": "d30bf1db7cd33df8b9d297f568ee51bc10b65c585c264b278257f300ba05bf1d",
-          "title": "Till Death Do Us Part",
-          "chapter": "Chapter 7-eng-li",
-          "url": "https://www.mgeko.cc/manga/fb86-till-death-do-us-part/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/GXWvBp.jpg"
-        },
-        {
-          "id": "e0cb029bac26bfc7706940e4b848910e9cfbfb5152b137b6f3ece77a848c1ef7",
-          "title": "Shadow Slave",
-          "chapter": "Chapter 15-eng-li",
-          "url": "https://www.mgeko.cc/manga/j3pu-shadow-slave/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/shadow-slave.aa19df.webp"
-        },
-        {
-          "id": "547fe70e4050c65a92ef7146c21f1e16dea0a5c479ce63ff11edc7f87ba6eed5",
-          "title": "unOrdinary",
-          "chapter": "Chapter 411-eng-li",
-          "url": "https://www.mgeko.cc/manga/mangatik1-1/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/unordinary.jpg"
-        },
-        {
-          "id": "3635307c549abe967319f89dd1dfe3f60732e00b2bdc23c94cbc83f1b0ac652c",
-          "title": "Lord of Summons! Sudden Mutation",
-          "chapter": "Chapter 164-eng-li",
-          "url": "https://www.mgeko.cc/manga/lord-of-summons-sudden-mutation/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/JnvbZR.webp"
-        },
-        {
-          "id": "a050bd895734030bc45428ab248a641eb0fb64e7d37732f6929f2bd798e1053a",
-          "title": "The Growth of a Nobleman's Second Son",
-          "chapter": "Chapter 30-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-growth-of-a-nobleman/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/1779174484-6a0c0c54b5036-01193x278.webp"
-        },
-        {
-          "id": "d813b53cefea8c9aeee219fea81d17b411b66622b88a19cd23ca68761eb8202f",
-          "title": "My Academic System Is Making Me Date?!",
-          "chapter": "Chapter 37-eng-li",
-          "url": "https://www.mgeko.cc/manga/ag9r-jinguan-shi-xueba-xitong-dan-xiaosu-tongxue-de-haogandu-zai-wenbu-tisheng/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mndyzN.png"
-        },
-        {
-          "id": "ef6a3b7e1f4e4ae1f0bce6467b88dade19bb23680c1abb0c8a6d351e55093c2e",
-          "title": "Freaky Killer",
-          "chapter": "Chapter 58-eng-li",
-          "url": "https://www.mgeko.cc/manga/freaky-killer/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/5pMGbB-s.jpg"
-        },
-        {
-          "id": "317a719584e39f680d4f911cee4f762620b0bec71d740745201498db9456a788",
-          "title": "The Back-Alley Mage\u2019s Return",
-          "chapter": "Chapter 46-5-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-back-alley-mage/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-back-alley-mage.webp"
-        },
-        {
-          "id": "9029fa7992ed44cf0a5482cdcddc906a8d195177469b9b9bef69b151551ca007",
-          "title": "Archmage Transcending Through Regression",
-          "chapter": "Chapter 222-eng-li",
-          "url": "https://www.mgeko.cc/manga/archmage-transcending-through-regression/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/archmage-transcending-through-regression.png"
-        },
-        {
-          "id": "7ee3e3ea740532b09c2843c3b8e5a23e725ae03367a1b741832669845d18e008",
-          "title": "I'm Being Misunderstood as a Soccer Genius",
-          "chapter": "Chapter 96-eng-li",
-          "url": "https://www.mgeko.cc/manga/m-being-misunderstood-as-a-soccer-genius/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/being-misunderstood-as-a-soccer-genius.jpg"
-        },
-        {
-          "id": "683d5b555ec92411a92510267849a1638a260819ea6413efe72df62813dc4a0a",
-          "title": "I Became a Mage in a Medieval Fantasy World",
-          "chapter": "Chapter 46-eng-li",
-          "url": "https://www.mgeko.cc/manga/w4f8-i-became-a-mage-in-a-medieval-fantasy-world/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/4kOqN2.png"
-        },
-        {
-          "id": "e3014ac4546375c7e862ddb6a43d1d81e77553b381a4e9153ab5061b451170e7",
-          "title": "Light of Arad: Forerunner",
-          "chapter": "Chapter 120-eng-li",
-          "url": "https://www.mgeko.cc/manga/light-of-arad-forerunner/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/light-of-arad-forerunner.webp"
-        },
-        {
-          "id": "e7394c6f62e977587083ef4ec34230dc596e5f7ac934b1c5e4addfb5c0e7410d",
-          "title": "The Red Yaksha",
-          "chapter": "Chapter 24-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-red-yaksha/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/tak.webp"
-        },
-        {
-          "id": "c1f0016eb06512d6c330a76e84f7538c5bd297d47ef19c85cbef88129779f0d4",
-          "title": "High School Queen",
-          "chapter": "Chapter 101-eng-li",
-          "url": "https://www.mgeko.cc/manga/high-school-queen/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/high-school-queen.webp"
-        },
-        {
-          "id": "99336045623db5b7e9f5a991b077aee162ad726662b4cbacf27cd0705d05c8c3",
-          "title": "Past Life Returner (Remake 2022)",
-          "chapter": "Chapter 193-eng-li",
-          "url": "https://www.mgeko.cc/manga/4450-past-life-returner/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/4450-past-life-returner.jpg"
-        },
-        {
-          "id": "53b62d8cf4dfdfe81d36e738b92999382df7697721c408993dbe6fc36182bde2",
-          "title": "Mark of the Fool",
-          "chapter": "Chapter 33-eng-li",
-          "url": "https://www.mgeko.cc/manga/ii85-mark-of-the-fool/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/oamlzr.jpg"
-        },
-        {
-          "id": "1c1726498d1155d152f095edb2ec7a98c5b240f636323e2446843ffd58fb4c68",
-          "title": "I Was Mistaken for the Villain",
-          "chapter": "Chapter 83-eng-li",
-          "url": "https://www.mgeko.cc/manga/memory-in-the-maze/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/2024-10-23-01-58-59-1729691939840.jpg"
-        },
-        {
-          "id": "e7d2d4f0932c5769dc3aba1aa8645b6e6fec59515a9651006a2d8ebaacf2b2ef",
-          "title": "The Heavenly Demon Wants a Quiet Life",
-          "chapter": "Chapter 103-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-heavenly-demon-wants-a-quiet-life/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/01JDMBHETFZQC2F72X6KG8T1AF-optimized.webp"
-        },
-        {
-          "id": "84c0f112a8c4bc51a9f2a0e01016398a0d125aa33251acea00cebc93353577a8",
-          "title": "Reborn Ranker \u2013 Gravity User (Manga)",
-          "chapter": "Chapter 225-eng-li",
-          "url": "https://www.mgeko.cc/manga/reborn-ranker-gravity-user/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/reborn-ranker-gravity-user.png"
-        },
-        {
-          "id": "d260f9274458216bf125ebee246f4a61206c7308664830ee4daa03ea003d1a39",
-          "title": "Blood Demon Reincarnation",
-          "chapter": "Chapter 71-eng-li",
-          "url": "https://www.mgeko.cc/manga/blood-demon-reincarnation/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/blood-demon-reincarnation.jpg"
-        },
-        {
-          "id": "12e5df60bbaa3c99585bdee2e33b4964d2635db2e83bf65e3c6a57f2b460071c",
-          "title": "World Destruction War",
-          "chapter": "Chapter 15-eng-li",
-          "url": "https://www.mgeko.cc/manga/world-destruction-war/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/xcxcx.png"
-        },
-        {
-          "id": "7e9e945d1ae88eb0ae81202605a87f203841fd3452347a2ea499d89a682d5392",
-          "title": "Student Jo-Eun",
-          "chapter": "Chapter 86-eng-li",
-          "url": "https://www.mgeko.cc/manga/student-joe-e/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/studednt-jo-en.jpg"
-        },
-        {
-          "id": "6a3e6779de723f84c16594c23e17ebbe262d96a29ef2f3efbd1e5a992d4ee817",
-          "title": "Mairimashita! Iruma-Kun",
-          "chapter": "Chapter 464-eng-li",
-          "url": "https://www.mgeko.cc/manga/mairimashita-iruma-kun/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mairimashita-iruma-kun.jpg"
-        },
-        {
-          "id": "16566e34b25a1b90a82a9dfcce3d163fe06c749d8a763cd6254a7ca2907118f0",
-          "title": "The Mysterious World\u2019s Greatest Martial Artist Little Prince",
-          "chapter": "Chapter 148-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-mysterious-worlds-greatest-martial-artist-little-prince/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/The-Mysterious-Worlds-Greatest-Martial-Artist-Little-Prince-193x278.webp"
-        },
-        {
-          "id": "b94e37676692302ced0cbcc67c4e3cdc9c9f8e678c4c4f984e075373ef3f2439",
-          "title": "Legend of the Pinnacle of Online Games",
-          "chapter": "Chapter 6-eng-li",
-          "url": "https://www.mgeko.cc/manga/bgbh-legend-of-the-pinnacle-of-online-games/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/mnnxRk.webp"
-        },
-        {
-          "id": "89ba0246be06172c2a520822be1e738e6a1b414057f387b0af0f1092d01d22c3",
-          "title": "Isekai ni Otosareta\u2026 Jouka wa Kihon!",
-          "chapter": "Chapter 38-eng-li",
-          "url": "https://www.mgeko.cc/manga/isekai-ni-otosareta-jouka-wa-kihon/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/55773.jpg"
-        },
-        {
-          "id": "13d607f1fc730bde0b76a4cbc3308eb7501065b638a5d862dc003c46b80033ab",
-          "title": "High Martial Arts: Sweeping Through Three Thousand Emperors with One Hand!",
-          "chapter": "Chapter 80-eng-li",
-          "url": "https://www.mgeko.cc/manga/high-martial-arts-sweeping-through-three-thousand-emperors-with-one-hand/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/thousand-emperors-with-one-hand3.webp"
-        },
-        {
-          "id": "68859147bff5bc8091ac8b6b919d0a14efe1b4540d0c926da81bb7773b503de1",
-          "title": "Entomologist In Sichuan Tang Clan",
-          "chapter": "Chapter 110-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-poison-master-of-sacheondang-clan/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-poison-master-of-sacheondang-clan.webp"
-        },
-        {
-          "id": "952708bce1f5ef1f766f0743f286dae6d55309b01379200678e63c75ab00dcaf",
-          "title": "Gendai Dungeon Life no Tsuzuki wa Isekai Open World de!",
-          "chapter": "Chapter 39-2-eng-li",
-          "url": "https://www.mgeko.cc/manga/gendai-dungeon-life-no-tsuzuki-wa-isekai-open-world/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/life-no-tsuzuki-wa-isekai-open-world.jpg"
-        },
-        {
-          "id": "a3771f0ebb3c09bc1f3ceb26337c8a1d9aed6dde3779b3fbb446e165a3906604",
-          "title": "administrator Kang Jin Lee",
-          "chapter": "Chapter 274-eng-li",
-          "url": "https://www.mgeko.cc/manga/gwanjeon/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/gwanjeon-lee-kang-jin.webp"
-        },
-        {
-          "id": "897154ae1c1d711eca1816586074fa15ccd829c801eaa423beffb7b7041cba33",
-          "title": "The Former Hero Wants To Live Peacefully",
-          "chapter": "Chapter 30-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-former-hero-wants-to-live-peacefully/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/the-former-hero-wants-to-live-peacefully.jpg"
-        },
-        {
-          "id": "201397f7111d23d6326a39a848d483260c7865f2c6c4b92293412c1180a0aa79",
-          "title": "Invasion of the Myriad Races: Starting by Taming a Legendary Beast",
-          "chapter": "Chapter 103-eng-li",
-          "url": "https://www.mgeko.cc/manga/invasion-of-the-myriad-races-starting-by-taming-a-legendary-beast/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/2024-10-24-03-36-17-1729784177282.jpg"
-        },
-        {
-          "id": "f100a5e958b39e86277400d0f55334aba14b460db99d2cf0dc712c21a352bb6e",
-          "title": "Logging 10,000 Years into the Future (Apex Future Martial Arts)",
-          "chapter": "Chapter 364-eng-li",
-          "url": "https://www.mgeko.cc/manga/apex-future-martial-arts2/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/apex-future-martial-arts.jpg"
-        },
-        {
-          "id": "1dbe10c18bc1ff68b0f7599d9a87f91dbc3fee49bde8984a236bcc6d864f4ac0",
-          "title": "The Demon King Who Lost His Job",
-          "chapter": "Chapter 462-eng-li",
-          "url": "https://www.mgeko.cc/manga/the-demon-king-who-lost-his-job-mg1/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/xx-123.jpg"
-        },
-        {
-          "id": "954948e154000f5984d81e32f8023baee8b2a5a90d972fa6019d68f2f5da47a4",
-          "title": "Nano Machine",
-          "chapter": "Chapter 336-eng-li",
-          "url": "https://www.mgeko.cc/manga/nano-machine-mg12/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/nano-machine.png"
-        },
-        {
-          "id": "0a3be7ca493d1f3482449f8d1c7461f1b8a7581e3015f95faca516ebf8454581",
-          "title": "Kim Ohjin's Adventures with Strange Animals",
-          "chapter": "Chapter 68-eng-li",
-          "url": "https://www.mgeko.cc/manga/kim-ohjins-adventures-with-strange-animals/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/kRXd7J-m.jpg"
-        },
-        {
-          "id": "3a86cc0a18a3fa866a3de2668292d25eaaff089e0ef16f65211cd70cb2d5cadc",
-          "title": "The Glutton",
-          "chapter": "Chapter 55-eng-li",
-          "url": "https://www.mgeko.cc/manga/cenv-the-glutton/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/cenv-the-glutton.jpg"
-        },
-        {
-          "id": "8f969a1a27ea9787f7af5d89dd5b6438fb6613cd8850a94827c2d368e3ae25f7",
-          "title": "Fantasy Enlistment Squad",
-          "chapter": "Chapter 43-eng-li",
-          "url": "https://www.mgeko.cc/manga/6vsn-fantasy-enlistment-squad/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/6vsn-fantasy-enlistment-squad.jpg"
-        },
-        {
-          "id": "4dfb19415179fdac85a34380015eb01421c137f8d8581a57b95b9ce864d663a0",
-          "title": "Evil Dragon Is Reincarnated! Revenge Begins at the Age of Five!",
-          "chapter": "Chapter 363-eng-li",
-          "url": "https://www.mgeko.cc/manga/my-dragon-system/",
-          "cover": "https://imgsrv5.com/avatar/288x412/media/manga_covers/my-dragon-system.png"
         }
       ]
     }
